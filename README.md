@@ -31,3 +31,6 @@ Identified key sales trends — top categories, best-selling products, regional 
 - `superstore.csv` — raw dataset
 - `superstore_cleaned.csv` — cleaned dataset
 - `monthly_revenue.png`, `category_sales.png`, `top_products.png`, `profit_by_category.png`, `region_performance.png`, `discount_vs_profit.png` — visualizations
+
+## Demo Video
+[Watch the demo](https://drive.google.com/file/d/1znS3znuqP5KuzjAKGKZYIBc0qlJCQbEl/view?usp=drive_link)
